@@ -23,3 +23,4 @@ Applying is straightforward. You'll propose your project by adding it to this li
 ## Approved Community Projects
 
 (Add your project below this line, following the instructions above.)
+Healthcare Watchdog  https: Healthcarwd.org  This is a project that I started after United Healthcare nearly killed me.    I was powerless and didn't understand my health insurance and my rights and all the methods to navigate the red tape.   When I became to sick and lacked the motivation and energy to save myself is when I found myself in danger.   This project utilizes AI to quickly read and understand the users Health Insurance policy and then quickly can give the user vital information on how to get necessary care.
